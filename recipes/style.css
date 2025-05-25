@@ -1,0 +1,23 @@
+#chicken {
+    height:auto;
+    width: 400px
+}
+
+h1 {
+    background-color: lightblue;
+    text-align: center;
+    font-family: Georgia, Helvetica, sans-serif;
+
+}
+
+.home {
+    background-color: blue;
+    color:white;
+}
+
+* {
+    line-height: 1.5;
+    background-color:beige;
+
+}
+
