@@ -11,6 +11,9 @@ h1 {
     background-color: beige;
 }
 
-img src {
-    margin: center;
+img {
+
+    width: 50%;
+    display: block;
+    margin: auto;
 }
