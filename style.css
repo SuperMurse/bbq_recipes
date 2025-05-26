@@ -11,14 +11,19 @@ h1 {
     line-height: 1.5;
     list-style: none;
     background-color: beige;
+   
 
 }
 
 img {
 
-    width: 50%;
-    display: block;
+    width: 500px;
+    height: 500px;
+    box-sizing: border-box;
     margin: auto;
-    border: 20px solid white;
+    border: 7px solid; color: white;
+    display:block;
+    
 
 }
+
