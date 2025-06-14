@@ -20,11 +20,38 @@ img {
 
     width: 350px;
     height: 350px;
-    box-sizing: border-box;
-    margin: auto;
     border: 7px solid; color: white;
-    display:block;
+    margin-bottom: 100px;
     
 
 }
 
+li {
+    padding: 10px;
+    
+}
+
+a {
+    text-decoration: underline;
+    color: black;
+    font-size: 30px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    
+}
+
+ul {
+    display: flex;
+    gap: 30px;
+  
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
